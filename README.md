@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kinzya (Aibulat Kinzyabaev)
 - 👀 I’m interested in Fullstack JS/.Net
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Web(JS,React)
  
 
 <!---
